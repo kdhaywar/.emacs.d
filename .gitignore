@@ -1,5 +1,8 @@
-# Object file
-*.o
-
-# Ada Library Information
-*.ali
+auto-save-list
+url
+ido-last*
+/eshell/
+ac-comhist.dat
+network-security.data
+ido.last
+ido.last~
