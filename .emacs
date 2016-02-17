@@ -26,6 +26,22 @@
 
 
 
+;----------------------;
+;;; Windows & Frames ;;;
+;----------------------;
+
+; language
+(setq current-language-environment "English")
+
+; don't show the startup screen
+(setq inhibit-startup-screen t)
+; number of characters until the fill column
+(setq fill-column 70)
+; display line numbers to the right of the window
+(global-linum-mode t)
+; show the current line and column numbers in the stats bar as well
+(line-number-mode t)
+(column-number-mode t)
 
 
 
